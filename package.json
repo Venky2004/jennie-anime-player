@@ -76,7 +76,7 @@
     "@emotion/styled": "^11.10.0",
     "@fontsource/montserrat": "^4.5.13",
     "@reduxjs/toolkit": "^1.1.0",
-    "axios": "^1.6.4",
+    "axios": "^1.6.8",
     "electron-is-dev": "^1.2.0",
     "framer-motion": "4.1.17",
     "get-port": "^5.1.1",
@@ -98,6 +98,6 @@
     "videojs-hls-quality-selector": "^1.1.4",
     "videojs-hotkeys": "^0.2.27",
     "web-vitals": "^0.2.4",
-    "websocket": "^1.0.34"
+    "websocket": "^1.0.35"
   }
 }
